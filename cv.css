@@ -50,11 +50,11 @@
     margin-bottom: 20px;
     
 }
-.myskill h6{
-    padding-left: 75px;
+.myskill i{
+    padding-left: 70px;
     margin: -25px;
-    font-size: 40px;
-    color:#ffd700
+    font-size: 15px;
+    color:#2F5233;
     
     
 }
@@ -82,7 +82,7 @@
 }
 .verline{
     border-left: 6px solid green;
-    height: 213%;
+    height: 229.5%;
     position: absolute;
     left: 50%;
     margin-left: -3px;
